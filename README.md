@@ -1,9 +1,22 @@
 <h1 align="center">Hi there 👋, I'm Snehal Nalawade</h1>
-<h3 align="center">A Computer Science undergraduate student from IIIT Vadodara this side :); I'm a beginner at open source and am excited to explore various domains here, while contributing in all those which I find interesting!</h3>
+<h3 align="center">A Computer Science undergraduate student from IIIT Vadodara this side :) </h3>
 
-<p align="left"> <a href="https://twitter.com/snehalknalawade" target="blank"><img src="https://img.shields.io/twitter/follow/snehalknalawade?logo=twitter&style=for-the-badge" alt="snehalknalawade" /></a> </p>
+<br/>
 
-- 📫 How to reach me **nalawadesnehal11@gmail.com**
+- 🌱 I’m currently working on **Backend Development,and Machine Learning**
+
+- 👯 Am looking to collaborate for **Hackathons, Innovative real-world Solutions and all other sorts of Great Projects!**
+
+- 🙋‍♀️ I'm also exploring the domain of **Knowledge Graphs** in general, and **Conversation Recommender Systems in particular**
+
+- 👯 My other fields of Interest include working on diagnostic & therapeutic solutions for disorders like **Autism Spectrum Disorder (ASD)** 
+
+- 📫 How to reach me **https://www.linkedin.com/in/snehal-nalawade-6b35b1225/** OR **nalawadesnehal11@gmail.com**
+
+- 🌱 I am also quite interested in Research and you can find my research papers at:
+     - **https://ieeexplore.ieee.org/document/10461890**
+     - **https://ieeexplore.ieee.org/document/10461794**
+<br/>
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
