@@ -3,7 +3,7 @@
 
 <br/>
 
-- 🌱 I’m currently working on **Backend Development,and Machine Learning**
+- 🌱 I’m currently working on **Backend Development and Machine Learning**
 
 - 👯 Am looking to collaborate for **Hackathons, Innovative real-world Solutions and all other sorts of Great Projects!**
 
